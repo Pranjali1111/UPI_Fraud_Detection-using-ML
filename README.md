@@ -1,5 +1,5 @@
 # UPI Fraud Detection Using Machine Learning
-This project aims to detect fraudulent transactions in UPI systems using machine learning algorithms such as Random Forest, Naive Bayes, Decision Tree, Logistic Regression, and Linear Regression. The system analyzes transaction patterns and user behavior to classify whether a receiver is fraudulent or not. If fraud is detected, an alert is triggered with an explanation. The frontend is built using HTML, CSS, Bootstrap, and JavaScript, while the backend is powered by Django with SQLite3 as the database.
+This project aims to detect fraudulent transactions in UPI systems using machine learning algorithms such as Random Forest, Naive Bayes, Decision Tree, Logistic Regression, and Linear Regression. The system analyzes transaction patterns and user behavior to classify whether a receiver is fraudulent or not. If fraud is detected, an alert is triggered with an explanation. The frontend is built using HTML, CSS and JavaScript, while the backend is powered by Django with SQLite3 as the database.
 
 ### Basic Features of The App
     
